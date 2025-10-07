@@ -1,1 +1,0 @@
-Arquivo criado apenas para evitar que o diretório fique vazio e não suba para o repositório.
