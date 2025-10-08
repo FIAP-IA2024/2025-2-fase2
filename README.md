@@ -241,10 +241,16 @@ cat resultados_sugestao.csv
 ## 📚 Fontes de Dados
 
 ### Parte 1: Mapa de Sintomas
-- **Fonte**: Literatura médica especializada e guidelines clínicos cardiovasculares
-- **Tipo**: Conhecimento estruturado em formato CSV com variações sintomáticas
+- **Frases**: Gerado utilizando o ChatGPT
 - **Cobertura**: 30 regras de correlação sintoma-diagnóstico
 - **Doenças**: 15 patologias cardiovasculares mapeadas
+- **Referências utilizadas:**
+* [Diretrizes da Sociedade Brasileira de Cardiologia – Angina Instável e IAM sem Supra de ST (2021)](https://abccardiol.org/wp-content/uploads/articles_xml/0066-782X-abc-117-01-0181/0066-782X-abc-117-01-0181.pdf)
+* [Diretrizes Brasileiras de Insuficiência Cardíaca Crônica (2021)](https://abccardiol.org/wp-content/uploads/articles_xml/0066-782X-abc-119-06-1139/0066-782X-abc-119-06-1139.pdf)
+* [Diretriz Brasileira de Miocardite (2022)](https://abccardiol.org/wp-content/uploads/articles_xml/0066-782X-abc-119-04-0702/0066-782X-abc-119-04-0702.pdf)
+* [Sociedade Brasileira de Arritmias Cardíacas (SOBRAC) – Diretrizes de Arritmias e Eletrofisiologia Clínica (2020)](https://www.arritmiascardiacas.org.br/wp-content/uploads/2020/10/Diretrizes-de-Arritmias-e-Eletrofisiologia-Clinica-2020.pdf)
+
+
 
 ### Parte 2: Frases Médicas Rotuladas
 - **Arquivo**: Gerado utilizando o ChatGPT
@@ -255,16 +261,10 @@ cat resultados_sugestao.csv
 
 ## 📄 Licenças
 
-### Código Fonte
-- **Licença**:
-- **Uso Acadêmico**: 
-- **Uso Comercial**: 
-
-### Dados Médicos
-- **Aviso**: Os dados e diagnósticos fornecidos por este sistema são **exclusivamente educacionais**
-- **Não substituem**: Consulta médica profissional qualificada
-- **Responsabilidade**: Os autores não se responsabilizam por uso clínico real deste sistema
+Este projeto segue o modelo de licença da FIAP e está licenciado sob Attribution 4.0 International. Para mais informações, consulte o [MODELO GIT FIAP.](https://github.com/agodoi/template)
 
 ---
 
-**Última atualização**: Outubro 2025
+**Última atualização**: 08/10/2025
+
+
