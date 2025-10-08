@@ -134,11 +134,13 @@ Sistema de **classificação de frases médicas** utilizando técnicas de Machin
 #### 📁 Arquivos
 ```
 parte2/
-└── frases_medicas_rotuladas.csv    # Dataset rotulado para treinamento
+└── frases_medicas_rotuladas.csv            # Dataset rotulado para treinamento e testes do modelo
+└── classificador_triagem_clinica.ipynb     # Notebook com código do classificador
 ```
 
-#### 🚧 Status
-**Em desenvolvimento** - Implementação prevista para continuação da Fase 2.
+#### Link para vídeo no YT mostrando o funcionamento da solução
+https://www.youtube.com/watch?v=TMQu9GWmmbU
+
 
 #### 🎯 Objetivos Planejados
 - Classificação multi-classe de frases médicas
@@ -153,17 +155,19 @@ parte2/
 ```
 2025-2-fase2/
 │
-├── README.md                           # Este arquivo (documentação principal)
-├── .venv/                              # Ambiente virtual Python
+├── README.md                                   # Este arquivo (documentação principal)
+├── .venv/                                      # Ambiente virtual Python
 │
-├── parte1/                             # PARTE 1: Diagnóstico por Sintomas
-│   ├── diagnostico.py                  # Script principal de diagnóstico
-│   ├── mapa_sintomas.csv               # Base de conhecimento (30 regras)
-│   ├── phrases_10.txt                  # 10 frases de teste
-│   └── resultados_sugestao.csv         # Resultados gerados (criado ao executar)
+├── parte1/                                     # PARTE 1: Diagnóstico por Sintomas
+│   ├── diagnostico.py                          # Script principal de diagnóstico
+│   ├── mapa_sintomas.csv                       # Base de conhecimento (30 regras)
+│   ├── phrases_10.txt                          # 10 frases de teste
+│   └── resultados_sugestao.csv                 # Resultados gerados (criado ao executar)
 │
-└── parte2/                             # PARTE 2: Classificação de Frases
-    └── frases_medicas_rotuladas.csv    # Dataset rotulado (em desenvolvimento)
+└── parte2/                                     # PARTE 2: Classificação de Frases
+    └── frases_medicas_rotuladas.csv            # Dataset rotulado
+    └── classificador_triagem_clinica.ipynb     # Notebook com código do classificador
+    
 ```
 
 ---
@@ -243,9 +247,9 @@ cat resultados_sugestao.csv
 - **Doenças**: 15 patologias cardiovasculares mapeadas
 
 ### Parte 2: Frases Médicas Rotuladas
-- **Arquivo**: 
-- **Status**: 
-- **Tipo**: 
+- **Arquivo**: Gerado utilizando o ChatGPT
+- **Status**: 400 linhas, sendo 200 para cada rótulo (baixo e alto risco)
+- **Tipo**: Rotulação binária (baixo e alto risco)
 
 ---
 
