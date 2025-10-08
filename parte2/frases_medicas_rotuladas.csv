@@ -1,50 +1,401 @@
 frase,situacao
-sinto dor no peito e falta de ar,alto risco
-tive um leve incômodo nas costas,baixo risco
-tive febre baixa durante a noite,médio risco
-estou com tontura e visão turva,alto risco
-acordei com dor de cabeça leve,baixo risco
-tive calafrios e febre alta,alto risco
-estou tossindo há mais de uma semana,médio risco
-meu coração está batendo muito rápido,alto risco
-sinto cansaço constante mesmo descansando,médio risco
-tenho uma leve dor no tornozelo,baixo risco
-sinto dor aguda no abdômen,alto risco
-tenho dor leve na garganta,baixo risco
-minhas mãos estão tremendo frequentemente,médio risco
-sinto dor ao urinar,médio risco
-meu nariz está entupido,baixo risco
-estou vomitando com frequência,alto risco
-meu pulso está irregular,alto risco
-tenho coceira leve na pele,baixo risco
-meu joelho está inchado,médio risco
-tenho dificuldade para engolir,alto risco
-tive um leve sangramento nasal,baixo risco
-estou com dor nas articulações,médio risco
-sinto dormência no braço esquerdo,alto risco
-tenho espirros e coriza,baixo risco
-sinto um peso no peito,alto risco
-meu estômago está embrulhado,médio risco
-sinto fraqueza ao levantar,médio risco
-tenho uma ferida que não cicatriza,alto risco
-minha garganta está irritada,baixo risco
-sinto falta de apetite há dias,médio risco
-meu tornozelo está torcido,médio risco
-tenho febre e dor no corpo,médio risco
-sinto pontadas no peito,alto risco
-tive um desmaio ontem,alto risco
-tenho dor lombar leve,baixo risco
-sinto enjoo após comer,médio risco
-meus lábios estão arroxeados,alto risco
-tenho tosse seca persistente,médio risco
-sinto dor de ouvido,médio risco
-tenho sangramento nas gengivas,médio risco
-minhas pernas estão inchadas,alto risco
-tenho coceira e vermelhidão no braço,baixo risco
-sinto palpitações no coração,alto risco
-tive um leve resfriado,baixo risco
-tenho dor forte nas costas,médio risco
-sinto dor abdominal intensa,alto risco
-tenho pequenas manchas na pele,baixo risco
-sinto calafrios leves,médio risco
-meu peito dói quando respiro fundo,alto risco
+nos últimos dias tive febre alta e calafrios fortes desde cedo,alto risco
+hoje sinto dor no peito e falta de ar desde cedo,alto risco
+hoje me sinto cansado mas sem dor e estou preocupado,baixo risco
+ultimamente estou com sangramento intenso,alto risco
+sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+tenho dor leve nas articulações e estou preocupado,baixo risco
+desde ontem tive perda de consciência repentina e piorou agora,alto risco
+nos últimos dias acordei com dor muscular leve mas sem outros sintomas,baixo risco
+sinto dor no peito e falta de ar e estou preocupado,alto risco
+tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+desde ontem tive um leve incômodo nas costas desde cedo,baixo risco
+ultimamente meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+nos últimos dias tive um leve incômodo nas costas desde cedo,baixo risco
+ultimamente me sinto cansado mas sem dor desde cedo,baixo risco
+hoje tive um leve incômodo nas costas mas sem outros sintomas,baixo risco
+desde ontem estou com coriza e espirros desde cedo,baixo risco
+nos últimos dias tive dificuldade para respirar subitamente e estou preocupado,alto risco
+nos últimos dias sinto dor abdominal forte e náusea desde cedo,alto risco
+ultimamente sinto dor no peito e falta de ar e estou preocupado,alto risco
+hoje tive visão turva e tontura súbita desde cedo,alto risco
+tive um leve incômodo nas costas e estou preocupado,baixo risco
+nos últimos dias acordei com dor muscular leve desde cedo,baixo risco
+desde ontem tive convulsão e confusão mental desde cedo,alto risco
+ultimamente sinto dor abdominal forte e náusea desde cedo,alto risco
+ultimamente me sinto cansado mas sem dor mas sem outros sintomas,baixo risco
+estou com sangramento intenso,alto risco
+nos últimos dias estou com coriza e espirros,baixo risco
+desde ontem sinto formigamento no lado esquerdo do corpo,alto risco
+sinto dor abdominal forte e náusea e estou preocupado,alto risco
+hoje sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+hoje sinto dor abdominal forte e náusea e piorou agora,alto risco
+sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+desde ontem meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+ultimamente tive febre baixa durante a noite,baixo risco
+hoje tive dificuldade para respirar subitamente mas sem outros sintomas,alto risco
+ultimamente acordei com dor muscular leve e piorou agora,baixo risco
+tenho dor leve nas articulações desde cedo,baixo risco
+hoje meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+ultimamente sinto dor de cabeça leve ocasionalmente mas sem outros sintomas,baixo risco
+hoje tenho tosse seca sem febre e estou preocupado,baixo risco
+ultimamente sinto formigamento no lado esquerdo do corpo,alto risco
+nos últimos dias me sinto cansado mas sem dor mas sem outros sintomas,baixo risco
+desde ontem tive febre baixa durante a noite desde cedo,baixo risco
+tive febre baixa durante a noite desde cedo,baixo risco
+me sinto cansado mas sem dor desde cedo,baixo risco
+hoje sinto dor abdominal forte e náusea desde cedo,alto risco
+nos últimos dias tive um leve incômodo nas costas mas sem outros sintomas,baixo risco
+nos últimos dias tenho dor leve nas articulações desde cedo,baixo risco
+nos últimos dias estou com coriza e espirros,baixo risco
+ultimamente tive febre baixa durante a noite e estou preocupado,baixo risco
+acordei com dor muscular leve desde cedo,baixo risco
+desde ontem tive febre alta e calafrios fortes,alto risco
+nos últimos dias tive dificuldade para respirar subitamente e piorou agora,alto risco
+tive um leve incômodo nas costas desde cedo,baixo risco
+ultimamente meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+desde ontem estou com coriza e espirros,baixo risco
+tive febre alta e calafrios fortes e piorou agora,alto risco
+sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+hoje tenho dor leve nas articulações,baixo risco
+me sinto cansado mas sem dor desde cedo,baixo risco
+desde ontem tenho tosse seca sem febre e piorou agora,baixo risco
+nos últimos dias sinto dor abdominal forte e náusea mas sem outros sintomas,alto risco
+desde ontem sinto dor no peito e falta de ar e estou preocupado,alto risco
+ultimamente tenho tosse seca sem febre e piorou agora,baixo risco
+hoje estou com coriza e espirros desde cedo,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente,baixo risco
+nos últimos dias tive visão turva e tontura súbita e piorou agora,alto risco
+desde ontem estou com sangramento intenso desde cedo,alto risco
+ultimamente sinto dor abdominal forte e náusea e estou preocupado,alto risco
+sinto leve desconforto abdominal desde cedo,baixo risco
+nos últimos dias tive febre alta e calafrios fortes e estou preocupado,alto risco
+nos últimos dias sinto leve desconforto abdominal,baixo risco
+nos últimos dias tive um leve incômodo nas costas e piorou agora,baixo risco
+nos últimos dias tive um leve incômodo nas costas desde cedo,baixo risco
+nos últimos dias sinto dor abdominal forte e náusea,alto risco
+nos últimos dias tive dificuldade para respirar subitamente mas sem outros sintomas,alto risco
+tive perda de consciência repentina e piorou agora,alto risco
+nos últimos dias tive dificuldade para respirar subitamente desde cedo,alto risco
+ultimamente tive um leve incômodo nas costas mas sem outros sintomas,baixo risco
+tive dificuldade para respirar subitamente e piorou agora,alto risco
+desde ontem sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+hoje sinto leve dor de garganta e estou preocupado,baixo risco
+hoje tive convulsão e confusão mental,alto risco
+ultimamente sinto formigamento no lado esquerdo do corpo desde cedo,alto risco
+nos últimos dias tive febre alta e calafrios fortes e piorou agora,alto risco
+ultimamente sinto leve dor de garganta,baixo risco
+tive febre alta e calafrios fortes,alto risco
+desde ontem estou com sangramento intenso,alto risco
+nos últimos dias tenho dor leve nas articulações mas sem outros sintomas,baixo risco
+acordei com dor muscular leve desde cedo,baixo risco
+nos últimos dias sinto dor no peito e falta de ar desde cedo,alto risco
+tive perda de consciência repentina desde cedo,alto risco
+desde ontem tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+hoje tive visão turva e tontura súbita,alto risco
+nos últimos dias tive febre baixa durante a noite,baixo risco
+ultimamente tive visão turva e tontura súbita,alto risco
+sinto dor abdominal forte e náusea desde cedo,alto risco
+ultimamente sinto dor no peito e falta de ar desde cedo,alto risco
+desde ontem sinto formigamento no lado esquerdo do corpo desde cedo,alto risco
+ultimamente estou com coriza e espirros,baixo risco
+ultimamente sinto formigamento no lado esquerdo do corpo,alto risco
+nos últimos dias sinto dor de cabeça leve ocasionalmente desde cedo,baixo risco
+hoje estou com coriza e espirros e piorou agora,baixo risco
+ultimamente tive um leve incômodo nas costas desde cedo,baixo risco
+nos últimos dias tive febre baixa durante a noite e piorou agora,baixo risco
+ultimamente tenho tosse seca sem febre desde cedo,baixo risco
+sinto leve desconforto abdominal,baixo risco
+desde ontem estou com coriza e espirros e piorou agora,baixo risco
+ultimamente tive febre alta e calafrios fortes desde cedo,alto risco
+tive visão turva e tontura súbita,alto risco
+nos últimos dias estou com coriza e espirros e piorou agora,baixo risco
+estou com sangramento intenso e estou preocupado,alto risco
+nos últimos dias meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+hoje tive perda de consciência repentina e piorou agora,alto risco
+ultimamente sinto formigamento no lado esquerdo do corpo e estou preocupado,alto risco
+nos últimos dias acordei com dor muscular leve mas sem outros sintomas,baixo risco
+nos últimos dias me sinto cansado mas sem dor e estou preocupado,baixo risco
+ultimamente meu batimento cardíaco está irregular e estou preocupado,alto risco
+desde ontem estou com sangramento intenso mas sem outros sintomas,alto risco
+hoje tive visão turva e tontura súbita,alto risco
+nos últimos dias sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+desde ontem estou com coriza e espirros mas sem outros sintomas,baixo risco
+sinto leve desconforto abdominal mas sem outros sintomas,baixo risco
+desde ontem estou com sangramento intenso e estou preocupado,alto risco
+ultimamente acordei com dor muscular leve mas sem outros sintomas,baixo risco
+ultimamente estou com coriza e espirros mas sem outros sintomas,baixo risco
+desde ontem tive visão turva e tontura súbita desde cedo,alto risco
+hoje tive perda de consciência repentina desde cedo,alto risco
+nos últimos dias tive um leve incômodo nas costas e estou preocupado,baixo risco
+desde ontem tive febre alta e calafrios fortes desde cedo,alto risco
+tive febre alta e calafrios fortes e estou preocupado,alto risco
+acordei com dor muscular leve e estou preocupado,baixo risco
+desde ontem tive convulsão e confusão mental,alto risco
+desde ontem sinto leve dor de garganta e estou preocupado,baixo risco
+desde ontem tive febre baixa durante a noite,baixo risco
+hoje sinto leve dor de garganta e estou preocupado,baixo risco
+desde ontem meu batimento cardíaco está irregular e piorou agora,alto risco
+sinto formigamento no lado esquerdo do corpo,alto risco
+ultimamente meu batimento cardíaco está irregular e estou preocupado,alto risco
+ultimamente meu batimento cardíaco está irregular desde cedo,alto risco
+hoje tive febre baixa durante a noite,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente desde cedo,baixo risco
+desde ontem meu batimento cardíaco está irregular desde cedo,alto risco
+estou com coriza e espirros mas sem outros sintomas,baixo risco
+nos últimos dias tive febre baixa durante a noite e estou preocupado,baixo risco
+sinto formigamento no lado esquerdo do corpo e piorou agora,alto risco
+nos últimos dias tenho tosse seca sem febre e estou preocupado,baixo risco
+hoje estou com coriza e espirros e estou preocupado,baixo risco
+desde ontem acordei com dor muscular leve,baixo risco
+sinto dor abdominal forte e náusea,alto risco
+desde ontem sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+ultimamente tive febre alta e calafrios fortes mas sem outros sintomas,alto risco
+hoje meu batimento cardíaco está irregular e piorou agora,alto risco
+hoje sinto leve dor de garganta,baixo risco
+hoje acordei com dor muscular leve mas sem outros sintomas,baixo risco
+ultimamente tive febre baixa durante a noite e estou preocupado,baixo risco
+desde ontem tive um leve incômodo nas costas desde cedo,baixo risco
+desde ontem tive febre baixa durante a noite e piorou agora,baixo risco
+nos últimos dias sinto formigamento no lado esquerdo do corpo mas sem outros sintomas,alto risco
+hoje tive perda de consciência repentina,alto risco
+nos últimos dias tive convulsão e confusão mental e estou preocupado,alto risco
+nos últimos dias meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+meu batimento cardíaco está irregular,alto risco
+desde ontem tenho tosse seca sem febre desde cedo,baixo risco
+sinto formigamento no lado esquerdo do corpo,alto risco
+nos últimos dias tive um leve incômodo nas costas e estou preocupado,baixo risco
+nos últimos dias sinto dor abdominal forte e náusea e piorou agora,alto risco
+desde ontem tenho dor leve nas articulações e estou preocupado,baixo risco
+ultimamente tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+desde ontem sinto dor abdominal forte e náusea,alto risco
+hoje sinto leve dor de garganta e estou preocupado,baixo risco
+ultimamente sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente,baixo risco
+tenho dor leve nas articulações,baixo risco
+hoje estou com coriza e espirros mas sem outros sintomas,baixo risco
+ultimamente tive visão turva e tontura súbita e estou preocupado,alto risco
+ultimamente acordei com dor muscular leve mas sem outros sintomas,baixo risco
+desde ontem meu batimento cardíaco está irregular e estou preocupado,alto risco
+desde ontem tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+ultimamente me sinto cansado mas sem dor e estou preocupado,baixo risco
+nos últimos dias sinto leve dor de garganta desde cedo,baixo risco
+hoje tenho dor leve nas articulações desde cedo,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente desde cedo,baixo risco
+ultimamente sinto leve dor de garganta desde cedo,baixo risco
+hoje tive um leve incômodo nas costas e estou preocupado,baixo risco
+ultimamente sinto dor abdominal forte e náusea e piorou agora,alto risco
+ultimamente estou com sangramento intenso desde cedo,alto risco
+nos últimos dias tive convulsão e confusão mental e estou preocupado,alto risco
+hoje sinto leve desconforto abdominal e estou preocupado,baixo risco
+ultimamente sinto leve dor de garganta e estou preocupado,baixo risco
+hoje tenho tosse seca sem febre e piorou agora,baixo risco
+desde ontem tive febre alta e calafrios fortes,alto risco
+desde ontem sinto leve dor de garganta,baixo risco
+nos últimos dias sinto dor abdominal forte e náusea e estou preocupado,alto risco
+sinto dor no peito e falta de ar desde cedo,alto risco
+desde ontem sinto formigamento no lado esquerdo do corpo e piorou agora,alto risco
+ultimamente sinto formigamento no lado esquerdo do corpo e estou preocupado,alto risco
+estou com sangramento intenso e estou preocupado,alto risco
+desde ontem tive convulsão e confusão mental e piorou agora,alto risco
+tive um leve incômodo nas costas e piorou agora,baixo risco
+hoje estou com sangramento intenso e estou preocupado,alto risco
+tive convulsão e confusão mental mas sem outros sintomas,alto risco
+ultimamente tive visão turva e tontura súbita mas sem outros sintomas,alto risco
+ultimamente estou com sangramento intenso,alto risco
+ultimamente me sinto cansado mas sem dor e estou preocupado,baixo risco
+desde ontem tenho dor leve nas articulações e piorou agora,baixo risco
+desde ontem estou com coriza e espirros mas sem outros sintomas,baixo risco
+tive perda de consciência repentina mas sem outros sintomas,alto risco
+ultimamente tenho dor leve nas articulações mas sem outros sintomas,baixo risco
+hoje tive dificuldade para respirar subitamente mas sem outros sintomas,alto risco
+ultimamente tenho dor leve nas articulações desde cedo,baixo risco
+nos últimos dias sinto leve dor de garganta,baixo risco
+desde ontem tive febre alta e calafrios fortes e estou preocupado,alto risco
+ultimamente sinto dor no peito e falta de ar mas sem outros sintomas,alto risco
+ultimamente estou com coriza e espirros,baixo risco
+desde ontem sinto dor no peito e falta de ar,alto risco
+nos últimos dias sinto formigamento no lado esquerdo do corpo e piorou agora,alto risco
+sinto dor abdominal forte e náusea mas sem outros sintomas,alto risco
+hoje meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+nos últimos dias sinto dor abdominal forte e náusea desde cedo,alto risco
+ultimamente sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+desde ontem tive visão turva e tontura súbita desde cedo,alto risco
+hoje estou com coriza e espirros e piorou agora,baixo risco
+desde ontem tive febre baixa durante a noite desde cedo,baixo risco
+hoje tive um leve incômodo nas costas mas sem outros sintomas,baixo risco
+hoje tenho tosse seca sem febre e piorou agora,baixo risco
+sinto dor abdominal forte e náusea desde cedo,alto risco
+desde ontem tenho tosse seca sem febre e estou preocupado,baixo risco
+desde ontem tive convulsão e confusão mental e piorou agora,alto risco
+hoje sinto leve dor de garganta desde cedo,baixo risco
+tive visão turva e tontura súbita desde cedo,alto risco
+ultimamente tive visão turva e tontura súbita,alto risco
+hoje me sinto cansado mas sem dor desde cedo,baixo risco
+estou com coriza e espirros mas sem outros sintomas,baixo risco
+desde ontem tive perda de consciência repentina desde cedo,alto risco
+nos últimos dias tive dificuldade para respirar subitamente,alto risco
+ultimamente tive febre alta e calafrios fortes e estou preocupado,alto risco
+hoje sinto formigamento no lado esquerdo do corpo e piorou agora,alto risco
+nos últimos dias sinto formigamento no lado esquerdo do corpo desde cedo,alto risco
+nos últimos dias meu batimento cardíaco está irregular e piorou agora,alto risco
+me sinto cansado mas sem dor desde cedo,baixo risco
+hoje sinto leve desconforto abdominal e estou preocupado,baixo risco
+desde ontem tive febre alta e calafrios fortes mas sem outros sintomas,alto risco
+tenho tosse seca sem febre e piorou agora,baixo risco
+hoje tive febre baixa durante a noite e estou preocupado,baixo risco
+desde ontem tive perda de consciência repentina e estou preocupado,alto risco
+nos últimos dias sinto leve dor de garganta desde cedo,baixo risco
+sinto dor abdominal forte e náusea e estou preocupado,alto risco
+hoje tive perda de consciência repentina desde cedo,alto risco
+sinto dor de cabeça leve ocasionalmente mas sem outros sintomas,baixo risco
+sinto dor abdominal forte e náusea e estou preocupado,alto risco
+hoje sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+desde ontem tive convulsão e confusão mental e estou preocupado,alto risco
+nos últimos dias tenho dor leve nas articulações desde cedo,baixo risco
+ultimamente meu batimento cardíaco está irregular,alto risco
+tenho tosse seca sem febre desde cedo,baixo risco
+desde ontem me sinto cansado mas sem dor e estou preocupado,baixo risco
+meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+desde ontem me sinto cansado mas sem dor e piorou agora,baixo risco
+desde ontem tenho dor leve nas articulações e piorou agora,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+nos últimos dias tenho dor leve nas articulações mas sem outros sintomas,baixo risco
+desde ontem tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+nos últimos dias tive febre baixa durante a noite,baixo risco
+nos últimos dias sinto leve desconforto abdominal e piorou agora,baixo risco
+ultimamente tive dificuldade para respirar subitamente desde cedo,alto risco
+hoje sinto dor abdominal forte e náusea e piorou agora,alto risco
+hoje tive perda de consciência repentina e piorou agora,alto risco
+hoje tive febre baixa durante a noite,baixo risco
+desde ontem acordei com dor muscular leve desde cedo,baixo risco
+desde ontem tive febre alta e calafrios fortes mas sem outros sintomas,alto risco
+sinto dor abdominal forte e náusea,alto risco
+tive dificuldade para respirar subitamente,alto risco
+nos últimos dias acordei com dor muscular leve e estou preocupado,baixo risco
+sinto leve desconforto abdominal e estou preocupado,baixo risco
+hoje sinto dor abdominal forte e náusea mas sem outros sintomas,alto risco
+nos últimos dias tive dificuldade para respirar subitamente desde cedo,alto risco
+nos últimos dias tive perda de consciência repentina,alto risco
+desde ontem sinto dor abdominal forte e náusea,alto risco
+tenho dor leve nas articulações desde cedo,baixo risco
+ultimamente estou com sangramento intenso e estou preocupado,alto risco
+tive visão turva e tontura súbita,alto risco
+tenho dor leve nas articulações desde cedo,baixo risco
+hoje estou com sangramento intenso mas sem outros sintomas,alto risco
+nos últimos dias tive visão turva e tontura súbita,alto risco
+ultimamente tive visão turva e tontura súbita,alto risco
+ultimamente estou com coriza e espirros e estou preocupado,baixo risco
+hoje sinto leve desconforto abdominal e piorou agora,baixo risco
+nos últimos dias tive perda de consciência repentina desde cedo,alto risco
+ultimamente acordei com dor muscular leve mas sem outros sintomas,baixo risco
+desde ontem sinto leve dor de garganta mas sem outros sintomas,baixo risco
+desde ontem tive um leve incômodo nas costas mas sem outros sintomas,baixo risco
+meu batimento cardíaco está irregular mas sem outros sintomas,alto risco
+ultimamente sinto dor no peito e falta de ar mas sem outros sintomas,alto risco
+tive perda de consciência repentina e estou preocupado,alto risco
+tenho dor leve nas articulações e estou preocupado,baixo risco
+ultimamente tive convulsão e confusão mental,alto risco
+sinto dor abdominal forte e náusea desde cedo,alto risco
+estou com sangramento intenso e estou preocupado,alto risco
+nos últimos dias sinto dor abdominal forte e náusea,alto risco
+desde ontem tive febre baixa durante a noite e estou preocupado,baixo risco
+sinto formigamento no lado esquerdo do corpo desde cedo,alto risco
+tenho dor leve nas articulações e piorou agora,baixo risco
+hoje tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+desde ontem sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+ultimamente sinto leve desconforto abdominal e piorou agora,baixo risco
+desde ontem acordei com dor muscular leve desde cedo,baixo risco
+desde ontem acordei com dor muscular leve,baixo risco
+ultimamente tive convulsão e confusão mental e piorou agora,alto risco
+acordei com dor muscular leve desde cedo,baixo risco
+nos últimos dias tenho tosse seca sem febre e estou preocupado,baixo risco
+desde ontem tenho dor leve nas articulações,baixo risco
+tive visão turva e tontura súbita,alto risco
+hoje sinto formigamento no lado esquerdo do corpo mas sem outros sintomas,alto risco
+hoje tive convulsão e confusão mental mas sem outros sintomas,alto risco
+desde ontem tive febre alta e calafrios fortes e piorou agora,alto risco
+desde ontem tive perda de consciência repentina mas sem outros sintomas,alto risco
+hoje tive dificuldade para respirar subitamente mas sem outros sintomas,alto risco
+meu batimento cardíaco está irregular,alto risco
+ultimamente meu batimento cardíaco está irregular desde cedo,alto risco
+hoje sinto formigamento no lado esquerdo do corpo,alto risco
+ultimamente sinto dor no peito e falta de ar e piorou agora,alto risco
+desde ontem estou com sangramento intenso,alto risco
+desde ontem tive visão turva e tontura súbita e piorou agora,alto risco
+ultimamente tive perda de consciência repentina mas sem outros sintomas,alto risco
+desde ontem sinto dor abdominal forte e náusea e estou preocupado,alto risco
+tive convulsão e confusão mental,alto risco
+nos últimos dias tive visão turva e tontura súbita e estou preocupado,alto risco
+hoje me sinto cansado mas sem dor e piorou agora,baixo risco
+hoje sinto leve dor de garganta mas sem outros sintomas,baixo risco
+nos últimos dias sinto formigamento no lado esquerdo do corpo mas sem outros sintomas,alto risco
+desde ontem estou com coriza e espirros mas sem outros sintomas,baixo risco
+estou com sangramento intenso e piorou agora,alto risco
+ultimamente tive convulsão e confusão mental,alto risco
+sinto dor de cabeça leve ocasionalmente,baixo risco
+nos últimos dias tive um leve incômodo nas costas,baixo risco
+nos últimos dias estou com coriza e espirros e piorou agora,baixo risco
+nos últimos dias tive febre baixa durante a noite,baixo risco
+ultimamente sinto leve desconforto abdominal mas sem outros sintomas,baixo risco
+tive febre alta e calafrios fortes,alto risco
+nos últimos dias acordei com dor muscular leve,baixo risco
+ultimamente sinto dor abdominal forte e náusea e estou preocupado,alto risco
+nos últimos dias tenho dor leve nas articulações desde cedo,baixo risco
+ultimamente sinto dor no peito e falta de ar e piorou agora,alto risco
+ultimamente sinto leve desconforto abdominal,baixo risco
+desde ontem sinto dor abdominal forte e náusea e estou preocupado,alto risco
+ultimamente sinto dor abdominal forte e náusea mas sem outros sintomas,alto risco
+hoje tive perda de consciência repentina mas sem outros sintomas,alto risco
+hoje sinto dor de cabeça leve ocasionalmente e estou preocupado,baixo risco
+hoje tive visão turva e tontura súbita e piorou agora,alto risco
+tenho tosse seca sem febre e piorou agora,baixo risco
+desde ontem sinto dor no peito e falta de ar mas sem outros sintomas,alto risco
+nos últimos dias tive um leve incômodo nas costas e piorou agora,baixo risco
+desde ontem tive visão turva e tontura súbita mas sem outros sintomas,alto risco
+ultimamente meu batimento cardíaco está irregular e piorou agora,alto risco
+hoje acordei com dor muscular leve,baixo risco
+nos últimos dias tive visão turva e tontura súbita e estou preocupado,alto risco
+desde ontem tive visão turva e tontura súbita,alto risco
+desde ontem sinto formigamento no lado esquerdo do corpo e piorou agora,alto risco
+sinto dor abdominal forte e náusea mas sem outros sintomas,alto risco
+desde ontem sinto leve dor de garganta,baixo risco
+nos últimos dias tenho tosse seca sem febre e estou preocupado,baixo risco
+hoje sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+nos últimos dias tive um leve incômodo nas costas,baixo risco
+desde ontem tive febre alta e calafrios fortes mas sem outros sintomas,alto risco
+ultimamente estou com coriza e espirros e piorou agora,baixo risco
+nos últimos dias sinto dor de cabeça leve ocasionalmente e piorou agora,baixo risco
+hoje acordei com dor muscular leve mas sem outros sintomas,baixo risco
+hoje sinto leve dor de garganta e piorou agora,baixo risco
+nos últimos dias tive febre alta e calafrios fortes,alto risco
+nos últimos dias tive febre alta e calafrios fortes,alto risco
+tive perda de consciência repentina,alto risco
+hoje acordei com dor muscular leve desde cedo,baixo risco
+hoje tive febre alta e calafrios fortes desde cedo,alto risco
+ultimamente sinto leve dor de garganta e estou preocupado,baixo risco
+tive visão turva e tontura súbita e estou preocupado,alto risco
+tenho dor leve nas articulações e piorou agora,baixo risco
+hoje tive visão turva e tontura súbita,alto risco
+desde ontem tive convulsão e confusão mental e piorou agora,alto risco
+nos últimos dias tive febre alta e calafrios fortes e piorou agora,alto risco
+estou com sangramento intenso desde cedo,alto risco
+hoje tive um leve incômodo nas costas e piorou agora,baixo risco
+acordei com dor muscular leve e piorou agora,baixo risco
+estou com coriza e espirros e estou preocupado,baixo risco
+tive dificuldade para respirar subitamente,alto risco
+hoje tive febre baixa durante a noite mas sem outros sintomas,baixo risco
+hoje tive visão turva e tontura súbita mas sem outros sintomas,alto risco
+ultimamente tive febre baixa durante a noite mas sem outros sintomas,baixo risco
+estou com sangramento intenso e estou preocupado,alto risco
+hoje tive convulsão e confusão mental mas sem outros sintomas,alto risco
+ultimamente tenho dor leve nas articulações e piorou agora,baixo risco
+desde ontem estou com sangramento intenso e estou preocupado,alto risco
+desde ontem tenho tosse seca sem febre mas sem outros sintomas,baixo risco
+nos últimos dias tenho tosse seca sem febre desde cedo,baixo risco
+hoje sinto leve dor de garganta,baixo risco
+ultimamente estou com coriza e espirros e piorou agora,baixo risco
+meu batimento cardíaco está irregular e estou preocupado,alto risco
+nos últimos dias sinto dor no peito e falta de ar desde cedo,alto risco
+tenho dor leve nas articulações desde cedo,baixo risco
